@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-123654789
-=======
-ABCDEF
->>>>>>> BugFix
+testing  Git hub
