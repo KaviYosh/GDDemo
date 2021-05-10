@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 My Testing File in git hub
 
 I forget to enter comments to previouse commit
+=======
+Tesing Branch edit detals
+>>>>>>> BugFix
