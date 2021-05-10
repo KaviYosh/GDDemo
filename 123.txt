@@ -5,3 +5,6 @@ I forget to enter comments to previouse commit
 =======
 Tesing Branch edit detals
 >>>>>>> BugFix
+ Ridmi
+ Nimal
+ Kamal
