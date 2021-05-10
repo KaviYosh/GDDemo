@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+=======
 ABCDEF
 cdfdgg
 ewrwf
 1654848
+<<<<<<< HEAD
 Mata Pissu
 Testing 123654
+=======
+>>>>>>> BugFix
+>>>>>>> main
